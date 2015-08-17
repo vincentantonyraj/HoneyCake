@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19334" started-at="2015-08-17T04:36:44Z" finished-at="2015-08-17T04:37:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19334" started-at="2015-08-17T04:36:44Z" finished-at="2015-08-17T04:37:03Z">
+      <class name="guideme.Invoice">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:guideme.Invoice@4a84336b]" name="beforeClass" is-config="true" duration-ms="34338" started-at="2015-08-17T10:06:10Z" finished-at="2015-08-17T10:06:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="CreateInvoice()[pri:0, instance:guideme.Invoice@4a84336b]" name="CreateInvoice" duration-ms="19334" started-at="2015-08-17T10:06:44Z" finished-at="2015-08-17T10:07:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateInvoice -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:guideme.Invoice@4a84336b]" name="beforeTest" is-config="true" duration-ms="0" started-at="2015-08-17T10:06:44Z" finished-at="2015-08-17T10:06:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:guideme.Invoice@4a84336b]" name="afterSuite" is-config="true" duration-ms="7728" started-at="2015-08-17T10:07:03Z" finished-at="2015-08-17T10:07:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- guideme.Invoice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
